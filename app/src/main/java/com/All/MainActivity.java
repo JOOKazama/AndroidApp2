@@ -1,4 +1,4 @@
-package com.androidapp2;
+package com.All;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle("Movie list");
 
         ArrayList<Movie>movies=new ArrayList<>();
         movies.add(new Movie("The Thing","Horror","June 25, 1982"));

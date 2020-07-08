@@ -1,4 +1,4 @@
-package com.androidapp2;
+package com.All;
 
 import android.content.Context;
 import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner;

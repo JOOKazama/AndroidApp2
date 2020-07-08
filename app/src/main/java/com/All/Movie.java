@@ -1,4 +1,4 @@
-package com.androidapp2;
+package com.All;
 
 public class Movie
 {
